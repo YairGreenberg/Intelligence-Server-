@@ -1,0 +1,20 @@
+[
+  {
+    "id": "R1",
+    "date": "2023-10-01",
+    "content": "Infiltrated the base.",
+    "agentId": "A101"
+  },
+  {
+    "id": "R2",
+    "date": "2023-10-05",
+    "content": "Gathered Intel on Alpha team.",
+    "agentId": "A101"
+  },
+  {
+    "id": "R3",
+    "date": "2023-10-10",
+    "content": "Target located.",
+    "agentId": "A102"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "A101",
+    "name": "James Bond",
+    "nickname": "007",
+    "reportsCount": 2
+  },
+  {
+    "id": "A102",
+    "name": "Natasha Romanoff",
+    "nickname": "Black Widow",
+    "reportsCount": 1
+  }
+]
